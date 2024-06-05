@@ -1,0 +1,2 @@
+gcc -o find_shortest_lines 14.c
+./find_shortest_lines
